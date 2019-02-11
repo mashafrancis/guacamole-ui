@@ -1,3 +1,5 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Node template
 # Logs
 logs
 *.log
@@ -59,3 +61,18 @@ typings/
 
 # next.js build output
 .next
+
+.idea/
+.idea/*
+.idea/**
+
+package-lock.json
+
+# Webstorm metadata
+.idea
+
+# Mac files
+.DS_Store
+
+# json-server db
+db.json
