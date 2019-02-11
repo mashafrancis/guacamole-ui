@@ -130,6 +130,10 @@
     }
 }
 
+#segment-1 {
+    background-color: #eeeeee;
+}
+
 /* ---- reset ---- */
 body {
     margin: 0;
